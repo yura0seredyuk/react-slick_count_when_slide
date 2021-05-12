@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "react-dom": "latest",
+    "react": "latest",
+    "react-slick": "*",
+    "slick-carousel": "*"
+  }
+}
